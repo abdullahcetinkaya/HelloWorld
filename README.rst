@@ -53,4 +53,4 @@ Reference
 
 - `Setting an Application's Entry Point (The Java™ Tutorials > Deployment > Packaging Programs in JAR Files) <http://docs.oracle.com/javase/tutorial/deployment/jar/appman.html>`_.
 
-https://github.com/macagua/example.java.helloworld
+- `https://github.com/macagua/example.java.helloworld>`_.
